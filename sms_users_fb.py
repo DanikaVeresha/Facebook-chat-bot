@@ -1,0 +1,1 @@
+sms = 'Hi, it`s me, chatBot, who write messages instead of you :)'
